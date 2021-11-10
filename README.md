@@ -13,9 +13,9 @@ optional arguments:
 
   -h, --help            
 
-show this help message and exit
+                        show this help message and exit
   
-  -t , --assembledGTF 
+  -t , --assembledGTF
   
                         assembled transcripts in GTF format
                         
