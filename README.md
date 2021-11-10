@@ -10,7 +10,9 @@ extractUTRs.py [-h] [-t ASSEMBLEDGTF] [-c ANNOTATIONSGTF]
 
 
 optional arguments:
+
   -h, --help            
+
 show this help message and exit
   
   -t , --assembledGTF 
