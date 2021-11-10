@@ -8,10 +8,10 @@ This code is used to find 5'UTRs and 3'UTRs using PomBase (*S. pombe*) annotatio
 extractUTRs.py [-h] [-t ASSEMBLEDGTF] [-c ANNOTATIONSGTF]
                     [-f RATTLE_FASTQ] [-a ASSEMBLER] [-o OUTPUT]
 
+
 optional arguments:
   -h, --help            
-  
-  show this help message and exit
+show this help message and exit
   
   -t , --assembledGTF 
   
