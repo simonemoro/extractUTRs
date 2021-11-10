@@ -1,6 +1,6 @@
 # extractUTRs
 
-This code is used to find 5'UTRs and 3'UTRs using PomBase (*S. pombe*) annotations and a transcriptome assembled with Stringtie2 or RATTLE (https://github.com/comprna/RATTLE).
+This code is used to find 5'UTRs and 3'UTRs using PomBase (*S. pombe*) CDS annotations and a transcriptome assembled with Stringtie2 or RATTLE (https://github.com/comprna/RATTLE).
 
 
 # Usage
